@@ -3,8 +3,6 @@ import numpy as np
 import io
 import cv2
 
-
-
 def main_loop():
     st.title("Car Recognition App")
 
